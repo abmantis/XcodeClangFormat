@@ -419,6 +419,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = XcodeClangFormat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.XcodeClangFormat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -435,6 +436,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = XcodeClangFormat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.XcodeClangFormat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
